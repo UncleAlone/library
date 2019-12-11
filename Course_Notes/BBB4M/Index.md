@@ -29,4 +29,3 @@
   * [The Business Cycle](Chapter_5.md/#TBC)
   * [Tools Used To Smoothen The Business Cycle](Chapter_5.md/#Tools)
   * [Economic Indicators Of The Business Cycle/Economy](Chapter_5.md/#EI)
-  * 
