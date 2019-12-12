@@ -19,12 +19,15 @@ the way a country organizes its goods and resources and distributes them to its 
 4. what should be the price of goods and services?
 
 <table>
+    <thead>
     <tr>
         <th></th>
         <th>Market Economy</th>
         <th>Mixed Economy</th>
         <th>Centrally Planned Economy</th>
     </tr>
+    </thead>
+    <tbody>
     <tr>
         <td>Private Property</td>
         <td>
@@ -109,6 +112,7 @@ the way a country organizes its goods and resources and distributes them to its 
             </ul>
         </td>
     </tr>
+    </tbody>
 </table>
 
 <h2 id="ADES">Advantages And Disadvantage Of Economic System</h2>
@@ -242,15 +246,15 @@ the way a country organizes its goods and resources and distributes them to its 
   * labour freedom
   * investment freedom
 
-<h2 id="TBC">The Business Cycle</h2>
-
-![QyVqxK.jpg](https://s2.ax1x.com/2019/12/12/QyVqxK.jpg)
-
 <blockquote>
 0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;extreme oppression<br>
 |<br>
 100&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;extreme freedom
 </blockquote>
+
+<h2 id="TBC">The Business Cycle</h2>
+
+![QyVqxK.jpg](https://s2.ax1x.com/2019/12/12/QyVqxK.jpg)
 
 1. Expansion/Prosperity
    * wages are strong
@@ -310,3 +314,268 @@ predict where the economy is headed
 </blockquote>
 
 * new construction sites both residential and commercial
+
+<h2 id="AA">Absolute Advantage</h2>
+
+<b>Absolute Advantage</b>
+<blockquote>
+when a country can make a good or service ,ore efficiently (using less inputs)
+than other country.
+</blockquote>
+
+<h2 id="OC">Opportunity Cost</h2>
+
+<b>Opportunity Cost:</b>
+<blockquote>
+the highest alternative given up to obtain an additional good.
+</blockquote>
+
+* example:
+  * to make one MacBook air, apple has an opportunity cost of 3 iPhones.
+* to produce one iPhone, apple gives up 0.33 MacBook air
+* Is NEVER a dollar value
+
+<h2 id="CA">Comparative Advantage</h2>
+
+<b>Comparative Advantage:</b>
+<blockquote>
+when a country can produce a good at a lower opportunity cost than another country.
+</blockquote>
+
+<h2 id=MA"">Model Assumptions</h2>
+
+* only two countries exist in the world
+* only two goods exist in the world
+* both countries have the same amount of resources (labour, capital)
+* initially both countries use exactly half their resources to produce each good
+* ignore profits and selling price
+* No protectionist policies
+* ignore marginal cost/law of diminishing return
+
+<h3 id="e1">Example 1</h3>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Before Trade</th>
+            <th>After Trade</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <table>
+                     <thead>
+                        <tr>
+                            <th></th>
+                            <th>Computers</th>
+                            <th>Headphones</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Japan</td>
+                            <td>500</td>
+                            <td>1000</td>
+                        </tr>
+                        <tr>
+                            <td>Canada</td>
+                            <td>800</td>
+                            <td>200</td>
+                        </tr>
+                        <tr>
+                            <td>Total</td>
+                            <td>1300</td>
+                            <td>1200</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+            <td>
+                <table>
+                     <thead>
+                        <tr>
+                            <th></th>
+                            <th>Computer</th>
+                            <th>Headphone</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Japan</td>
+                            <td>0</td>
+                            <td>2000</td>
+                        </tr>
+                        <tr>
+                            <td>Canada</td>
+                            <td>1600</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Total</td>
+                            <td>1600</td>
+                            <td>2000</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <ul>
+                    <li>Canada has an absolute advantage
+                    in computer production <b>(800 > 500)</b></li>
+                    <li>Japan has an absolute advantage
+                    in headphone production <b>(1000 > 200)</b></li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>when the countries decide to trade
+                    they will specialize and make the good they have an absolute advantage</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h3 id="e2">Example 2</h3>
+<table border="1">
+    <thead>
+        <tr>
+            <th>Before Trade</th>
+            <th>After Trade 1</th>
+            <th>After Trade 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <table>
+                     <thead>
+                        <tr>
+                            <th></th>
+                            <th>Tires</th>
+                            <th>Chairs</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>U.S.A</td>
+                            <td>900</td>
+                            <td>500</td>
+                        </tr>
+                        <tr>
+                            <td>Mexico</td>
+                            <td>250</td>
+                            <td>300</td>
+                        </tr>
+                        <tr>
+                            <td>Total</td>
+                            <td>1150</td>
+                            <td>800</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+            <td>
+                <table>
+                     <thead>
+                        <tr>
+                            <th></th>
+                            <th>Tires</th>
+                            <th>Chairs</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>U.S.A</td>
+                            <td>1800</td>
+                            <td>0</td>
+                        </tr>
+                        <tr>
+                            <td>Mexico</td>
+                            <td>0</td>
+                            <td>600</td>
+                        </tr>
+                        <tr>
+                            <td>Total</td>
+                            <td>1800</td>
+                            <td>600</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+            <td>
+                <table>
+                     <thead>
+                        <tr>
+                            <th></th>
+                            <th>Tires</th>
+                            <th>Chairs</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>U.S.A</td>
+                            <td>1440</td>
+                            <td>200</td>
+                        </tr>
+                        <tr>
+                            <td>Mexico</td>
+                            <td>0</td>
+                            <td>600</td>
+                        </tr>
+                        <tr>
+                            <td>Total</td>
+                            <td>1440</td>
+                            <td>800</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <ul>
+                    <li>U.S.A has absolute advantage in both goods</li>
+                    <li>We need to use opportunity cost to find comparative advantage</li>
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    <li>Both countries produce the goods they have a comparative advantage</li>
+                </ul>
+            </li>
+            <td>
+                <ul>
+                    <li>The U.S.A will produce additional chairs</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <ul>
+                    <li>In U.S.A one tire costs 500/900 or <b>0.56</b> chairs</li>
+                    <li>InU.S.A one chair costs 900/500 or <b>1.8</b> chairs</li>
+                    <li>In Mexico one tire costs 300/250 or <b>1.2</b> chairs</li>
+                    <li>In Mexico one chair costs 250/300 or <b>0.83 tires</b></li>
+                    <li>U.S.A comparative advantage in tires <b>(0.56 > 1.2)</b></li>
+                    <li>Mexico comparative advantage in chairs <b>(0.83 > 1.8)</b></li>
+                </li>
+            </td>
+            <td>
+                <ur>
+                    <li>The world not better off, whilst Tires &uarr;, Chairs &darr;</li>
+                </ur>
+            </td>
+            <td>
+                <ur>
+                    <li>In order for the U.S to make 200 chairs they need to give up 200 &times; 1.8 tires = 360 tires
+                    <br>
+                    1800 &minus; 360 = 1440
+                    </li>
+                </ur>
+            </td>
+        </tr>
+    </tbody>
+</table>
