@@ -3,7 +3,7 @@
 <h2>Corporate Social responsibility</h2>
 
 <blockquote>
-the duty of a company's management to work in the best interests of the society it relies on for ir;s resources (human, material and environmental) to advance the welfare of society and to act as a good global citizen
+the duty of a company's management to work in the best interests of the society it relies on for it's resources (human, material and environmental) to advance the welfare of society and to act as a good global citizen
 </blockquote>
 
 <h3>How</h3>
