@@ -319,7 +319,7 @@ predict where the economy is headed
 
 <b>Absolute Advantage</b>
 <blockquote>
-when a country can make a good or service ,ore efficiently (using less inputs)
+when a country can make a good or service ,more efficiently (using less inputs)
 than other country.
 </blockquote>
 
