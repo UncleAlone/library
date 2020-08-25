@@ -27,3 +27,6 @@
   * [Identifier](Dec_11.md/#I)
   * [Rules For Naming Identifiers](Dec_11.md/#R)
   * [The First Program](Dec_11.md/#FTP)
+
+* <b>Code Resources</b>
+  * [Code - C Language](https://github.com/UncleAlone/library/tree/master/Course_Notes/ISC4U/Code_C)
